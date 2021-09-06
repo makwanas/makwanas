@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Saurabhkumar Makwana, a MS in CS graduate student and a teaching assistant at Oregon State University. I'm also a memeber of the Software innovation track, App Development and Hackathon club at Oregon State University. Previously, I have also worked as a full stack developer intern at Divercity. I'm passionate about learning, improving and making things better, building, coding and developing software which impact the lives of people on a daily basis.  I have worked on several full-stack web and mobile application projects and every project helped me learn and grow as a software developer. Lately, I'm really fascinated to learn more about the scalability and performance aspect involved in designing large-scale complex systems which drive this ever-growing and ever-demanding tech space. Here are some of the tools and technologies I've worked upon:
+
+- ⚡ Programming languages: Python, JavaScript, Java, TypeScript, C/C++, HTML, CSS, Rust and PHP
+- ⚡ Database Technologies: MongoDB, MySQL, Redis, PostgreSQL, Oracle and Firebase
+- ⚡ Frameworks:  React, Redux, Node.js, Express, Flask, GraphQL, Ruby on Rails, Apollo, React Native, Angular, Next.js, Jest, jQuery, Emotion, RabbitMQ, Django, Apache Kafka, NATS Streaming, JUnit, Espresso and Ray
+- ⚡Additional Skills: Docker, Kubernetes, Travis CI, Git, AWS, Android Development, Jira, Socket.io and Deep Learning
+
+💬 Feel free to get in touch with me here on Github or reach out to me at: makwanas@oregonstate.edu. If you feel like, you could also contribute to my existing Github projects or give me any suggestions regarding them.
+
 <!--
 **makwanas/makwanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
